@@ -1,0 +1,2 @@
+homeowork1:
+root processor gets a number from user input, and multiply this number by its rank in multiple processors.
